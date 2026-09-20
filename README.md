@@ -1,2 +1,23 @@
-# TeoriaDeLaComputacion_27-1-
-Prácticas y listas de ejercicios de la materia de Teoría de la Computación, de la carrera de Ingeniería en Sistemas Computacionales (ISC) de la ESCOM-IPN, correspondientes al semestre 2027-1.
+# Teoría de la Computación — 2027-1
+
+Repositorio de prácticas, tareas, ejercicios y proyectos de la materia de
+Teoría de la Computación de la carrera de Ingeniería en Sistemas
+Computacionales de la Escuela Superior de Cómputo (ESCOM) del Instituto
+Politécnico Nacional (IPN).
+
+## Información
+
+- **Institución:** Instituto Politécnico Nacional (IPN)
+- **Escuela:** Escuela Superior de Cómputo (ESCOM)
+- **Carrera:** Ingeniería en Sistemas Computacionales
+- **Materia:** Teoría de la Computación
+- **Alumno:** Sánchez Iriarte Juan Pablo
+- **Boleta:** 2025630142
+- **Semestre:** 2027-1
+
+## Contenido
+
+- [Unidad 1](./unidad-1/)
+- [Unidad 2](./unidad-2/)
+- [Unidad 3](./unidad-3/)
+- [Recursos](./recursos/)
